@@ -20,4 +20,4 @@ poetry run revelation start <palestra>/slides.md
 
 ### PDFs
 
-* Na pasta pdf há algumas palestras antigas (sem os fontes)
+* Na pasta "pdf" há palestras antigas (sem os fontes)
